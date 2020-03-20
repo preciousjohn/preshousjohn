@@ -1,5 +1,5 @@
 # preshousjohn
-HNG Internship (tasks)
+HNG Training (tasks)
 
 ## General info
 This project is a simple web page.
@@ -9,5 +9,5 @@ Project is created with:
 * HTML
 * CSS
 
-## view
+## View
 You can also view this at [codepen.io](https://codepen.io/preshjohn/full/zYGLmLq)
