@@ -1,5 +1,6 @@
 
-   preshousjohn</h1>
+   ## preshousjohn
+   
    My first task &hearts;
       
 Inyang, Precious Johnson
@@ -14,5 +15,7 @@ Mobile
  ` Kotlin `
 
  ` Flutter `
+ 
+ <hr>
 
 By [preciousjohn](https://github.com/preciousjohn)
