@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>preshousjohn</title>
-</head>
-
 <body>
     <section class="page-header">
       <h1 class="project-name">preshousjohn</h1>
