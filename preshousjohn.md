@@ -1,21 +1,22 @@
 
-   ## preshousjohn
+   # preshousjohn
    
    My first task &hearts;
       
-Inyang, Precious Johnson
-Email address: preciousinyang10@gmail.com
+### Inyang, Precious Johnson
 
-slack username: preshousjohn
+**Email address:** preciousinyang10@gmail.com
 
-Tracks and courses
+**slack username:** preshousjohn
 
-Mobile
+## Tracks and courses
 
+### Mobile
+```markdown 
  ` Kotlin `
 
  ` Flutter `
- 
+ ```
  <hr>
 
 By [preciousjohn](https://github.com/preciousjohn)
