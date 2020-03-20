@@ -14,6 +14,5 @@ Mobile
  ` Kotlin `
 
  ` Flutter `
-
 <hr>
-By [preciousjohn](#https://github.com/preciousjohn)
+By [preciousjohn](https://github.com/preciousjohn)
