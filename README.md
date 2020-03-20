@@ -9,5 +9,3 @@ Project is created with:
 * HTML
 * CSS
 
-## View
-You can also view this at [codepen.io](https://codepen.io/preshjohn/full/zYGLmLq)
