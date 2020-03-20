@@ -14,5 +14,5 @@ Mobile
  ` Kotlin `
 
  ` Flutter `
-<hr>
+
 By [preciousjohn](https://github.com/preciousjohn)
