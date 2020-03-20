@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>preshousjohn</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
@@ -11,9 +10,8 @@
       <h2 class="tagline">My first task &hearts;</h2>
     </section>
 
-    <section class="main">
-      <h2 id="precious">Inyang, Precious Johnson</h2>
-
+      
+<h2 id="precious">Inyang, Precious Johnson</h2>
 <p>Email address: preciousinyang10@gmail.com</p>
 
 <p>slack username: preshousjohn</p>
@@ -31,7 +29,6 @@
 <footer class="site-footer">
         <span class="footer">By <a href="https://github.com/preciousjohn">preciousjohn</a>.</span>
 </footer>
-    </section>
 </html>
 
 <style>
