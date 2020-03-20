@@ -8,4 +8,6 @@ This project is a simple web page.
 Project is created with:
 * HTML
 * CSS
-	
+
+## view
+You can also view this at [codepen.io](https://codepen.io/preshjohn/full/zYGLmLq)
