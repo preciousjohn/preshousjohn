@@ -3,15 +3,15 @@
    
    My first task &hearts;
       
-### Inyang, Precious Johnson
+# Inyang, Precious Johnson
 
 **Email address:** preciousinyang10@gmail.com
 
 **slack username:** preshousjohn
 
-## Tracks and courses
+# Tracks and Courses
 
-## Mobile Development
+### Mobile Development
 ```markdown 
  ` Kotlin `
 
